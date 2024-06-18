@@ -1,34 +1,10 @@
 <div id="top"></div>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg?style=for-the-badge)](http://shields.io/)
-
-
-
- 
-
-<h1 align="center">
-  <br>
-  <a href="https://github.com/tiwariadarsh/StreamEzy.git"><img src="https://github.com/tiwariadarsh/StreamEzy/blob/main/client/public/logoMain.png" style="width:200px;height:200px;" alt="ArminC AutoExec"></a>
-</h1>
-
 <h1 align="center"> <p style="font-size:200px;"> <b> StreamEzy </b> </p> </h1> 
 
 <h4 align="center"> 🖥️ Decentralized Live Video Streaming Platform 🎞️</h4> 
-<h3 align="center"><a href='https://streamzy-development.web.app/' target='blank'>https://streamzy-development.web.app/</a></h3>
 
-<h1 align="center">
-  <br>
-  <a href="https://github.com/tiwariadarsh/StreamEzy">View Demo</a>
-  .
-    <a href="https://github.com/tiwariadarsh/StreamEzy/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/tiwariadarsh/StreamEzy/issues">Request Feature</a>
-</h1>
+
 
 ## 🤖 About
 
@@ -141,28 +117,3 @@ To achieve this we are building a P2P infrastructure that interacts through
 
 ![image](https://user-images.githubusercontent.com/57039707/143577269-0ef51656-b352-4c4f-914d-b45c91c71b4b.png)
 
-### ABOUT US
-![About (1)](https://user-images.githubusercontent.com/62543734/154794358-30c1e403-7544-4f09-a669-d1e0001b62d0.JPG)
-
-
-
-
-
-
-## License
-[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://tldrlegal.com/license/creative-commons-cc0-1.0-universal)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-[contributors-shield]: https://img.shields.io/github/contributors/tiwariadarsh/StreamEzy.svg?style=for-the-badge
-[contributors-url]:  https://github.com/tiwariadarsh/StreamEzy/graphs/contributors
-[forks-shield]: 	https://img.shields.io/github/forks/tiwariadarsh/StreamEzy.svg?style=for-the-badge
-[forks-url]: https://github.com/tiwariadarsh/StreamEzy/
-[stars-shield]: https://img.shields.io/github/stars/tiwariadarsh/StreamEzy.svg?style=for-the-badge
-[stars-url]:  https://github.com/tiwariadarsh/StreamEzy/stargazers
-[issues-shield]: https://img.shields.io/github/issues/tiwariadarsh/StreamEzy.svg?style=for-the-badge
-[issues-url]: https://github.com/tiwariadarsh/StreamEzy/issues
-[license-shield]: https://img.shields.io/github/license/tiwariadarsh/StreamEzy?style=for-the-badge
-[license-url]: https://github.com/tiwariadarsh/StreamEzy/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]:https://www.linkedin.com/in/rathin-r-3bb5341ba/
